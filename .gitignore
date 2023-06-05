@@ -1,4 +1,5 @@
 update_*
+cache/
 diff.bin
 # Byte-compiled / optimized / DLL files
 __pycache__/
